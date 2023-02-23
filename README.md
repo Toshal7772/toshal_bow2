@@ -1,1 +1,1 @@
-# toshal_bow2
+# Project-Template BB2
